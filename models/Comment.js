@@ -7,15 +7,15 @@ var Schema = mongoose.Schema;
 // Create Comment Schema
 var CommentSchema = new Schema({
 
-    // Author's Name
-    author: {
-        type: String
-    },
-    // Comment Content
-    content: {
-        type: String
-    }
-
+  // Author's Name
+  author: {
+    type: String
+  },
+  // Comment Content
+  content: {
+    type: String
+  }
+  
 });
 
 
