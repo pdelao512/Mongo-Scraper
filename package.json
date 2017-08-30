@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pdelao512/Mongo-Scraper/issues"
   },
-  "homepage": "https://github.com/pdelao512/Mongo-Scraper#readme"
+  "homepage": "https://github.com/pdelao512/Mongo-Scraper#readme",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
 }
